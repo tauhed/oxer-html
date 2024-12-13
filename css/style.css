@@ -471,13 +471,13 @@ a:focus {
 .about_section .about_container .detail-box a {
   display: inline-block;
   padding: 8px 35px;
-  background-color: #000000;
+  background-color: #ffffff;
   border: 1px solid transparent;
   border-radius: 35px;
-  color: #ffffff;
+  color: #000000;
   margin: 35px auto 0 auto;
-  -webkit-box-shadow: 0 0 35px 0 rgba(99, 247, 79, 0.7);
-          box-shadow: 0 0 35px 0 rgba(99, 247, 79, 0.7);
+  -webkit-box-shadow: 0 0 35px 0 rgba(31, 161, 14, 0.7);
+          box-shadow: 0 0 35px 0 rgba(31, 140, 16, 0.7);
 }
 
 .about_section .about_container .detail-box a:hover {
