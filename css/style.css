@@ -418,7 +418,7 @@ a:focus {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  color: #63f74f;
+  color: #2a313a;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
 }
@@ -427,7 +427,7 @@ a:focus {
   border: none;
   width: 1px;
   height: 200px;
-  background-color: #63f74f;
+  background-color: #1f241e;
   margin: 2rem 0;
 }
 
@@ -437,12 +437,12 @@ a:focus {
 }
 
 .about_section .heading_container h2 {
-  color: #ffffff;
+  color: #b41a1a;
 }
 
 .about_section .about_container {
   padding: 45px;
-  background-image: url(../images/about-bg.jpg);
+  background-image: url(../images/roman-ring.jpg);
   background-size: cover;
 }
 
@@ -476,7 +476,7 @@ a:focus {
   border-radius: 35px;
   color: #ffffff;
   margin: 35px auto 0 auto;
-  -webkit-box-shadow: 0 0 35px 0 rgba(99, 247, 79, 0.7);
+  -webkit-box-shadow: 0 0 35px 0 rgba(26, 34, 25, 0.7);
           box-shadow: 0 0 35px 0 rgba(99, 247, 79, 0.7);
 }
 
