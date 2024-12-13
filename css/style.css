@@ -41,7 +41,10 @@ body {
       -ms-flex-align: start;
           align-items: flex-start;
 }
-
+.heading_container p{
+  color: blue;
+  font-size: 20px;
+}
 .heading_container h2 {
   font-weight: bold;
   display: -webkit-box;
@@ -699,6 +702,7 @@ a:focus {
 
 .blog_section .box .detail-box .img_date h6 {
   margin: 0;
+  color: black;
 }
 
 .blog_section .box .detail-box h3 {
